@@ -23,6 +23,9 @@
 - [Service establishment Rosemount homeowner guide](https://local-business-guides.github.io/charli-s-emergency-plumbing-burnsville-rosemount/service-establishment-rosemount/): Service establishment Rosemount guide: prepare for a plumbing visit, compare the proposed work and ask useful questions for your Rosemount home.
 - [Hiring an emergency plumber Coffeyville homeowners guide](https://local-business-guides.github.io/charli-s-emergency-plumbing-burnsville-rosemount/emergency-plumber-coffeyville/): Need an emergency plumber Coffeyville? Use this Coffeyville homeowner checklist to explain the damage and prepare for an urgent plumbing call.
 
+## Newsroom
+- [Charli's Emergency Plumbing Burnsville Shares Emergency Plumber Guide](https://local-business-guides.github.io/charli-s-emergency-plumbing-burnsville-rosemount/news/2026-10-25-charli-s-emergency-plumbing-burnsville-shares-emer/): Charli's Emergency Plumbing Burnsville has released an emergency plumber guide, a YouTube video, a podcast episode and a SoundCloud audio version. (2026-10-25)
+
 ## Pages
 - [Emergency Plumber in Rosemount, Minnesota](https://local-business-guides.github.io/charli-s-emergency-plumbing-burnsville-rosemount/): Get help with urgent leaks and everyday plumbing problems in Rosemount, with calls welcome 24 hours a day. Call +1952-521-0880.
 - [About and Contact Charli's Plumbing in Rosemount](https://local-business-guides.github.io/charli-s-emergency-plumbing-burnsville-rosemount/about/): About Charli's Emergency Plumbing Burnsville, Rosemount.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/charli-s-emergency-plumbing-burnsville-rosemount/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/charli-s-emergency-plumbing-burnsville-rosemount/news/rss.xml)
 - [Main resource site](https://charlis-emergency-plumbing-rosemount.localwebsites.chatgpt.site)
